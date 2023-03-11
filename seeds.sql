@@ -22,6 +22,6 @@ VALUES (01, "Lucas", "Figueroa", 01, null),
        (05, "Carl", "Booker", 05, null),
        (06, "Abel", "Long", 06, 05),
        (07, "Hugo", "Klein", 07, null),
-       (08, "Carly", "Schroeder", 08, null);
+       (08, "Carly", "Schroeder", 08, 07);
 
        
